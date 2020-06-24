@@ -1,4 +1,4 @@
 baseURL = "https://jeju202007.dglee.kr/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "newsroom"
+theme = "hugo.386"
