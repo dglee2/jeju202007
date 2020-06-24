@@ -1,4 +1,10 @@
 baseURL = "https://jeju202007.dglee.kr/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Jeju 2020 07 01 - 2020 07 07"
 theme = "hugo.386"
+
+[params]
+    mainpagetitle = "제주 여행 기록."
+    mainpagesubtitle = "또다시 장마철에 솔로 제주 여행."
+    mainpagedesc = "2020년 07월 제주여행의 기록."
+    copyrightname = "DG"
