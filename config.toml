@@ -4,7 +4,7 @@ title = "Jeju 2020 07 01 - 2020 07 07"
 theme = "hugo.386"
 
 [params]
-    mainpagetitle = "제주 여행 기록."
-    mainpagesubtitle = "또다시 장마철에 솔로 제주 여행."
-    mainpagedesc = "2020년 07월 제주여행의 기록."
+    mainpagetitle = "2020. 07 제주 여행의 기록."
+    mainpagesubtitle = "우중 솔로 제주 여행"
+    mainpagedesc = "이달들어... 마음이 혼란스럽고.. 너무 힘든 탓에.. 한라산이나 올라가보기로 하고는.. 그저께 티켓팅 함."
     copyrightname = "DG"
