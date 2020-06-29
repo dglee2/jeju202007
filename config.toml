@@ -1,7 +1,8 @@
 baseURL = "https://jeju202007.dglee.kr/"
 languageCode = "en-us"
 title = "Jeju 2020 07 01 - 2020 07 07"
-theme = "hugo.386"
+#theme = "hugo.386"
+theme = "hugo-theme-tokiwa"
 
 [params]
     mainpagetitle = "2020. 07 제주 여행의 기록."
