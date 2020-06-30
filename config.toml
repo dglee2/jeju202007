@@ -1,6 +1,7 @@
 baseURL = "https://jeju202007.dglee.kr/"
 languageCode = "en-us"
-theme = "newsroom"
+#theme = "newsroom"
+theme = "hugo-theme-tokiwa"
 title = "Jeju 2020 07 01 - 2020 07 07"
 
 [params]
